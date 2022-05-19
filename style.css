@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
-    background: #dde7dd;
+    background: black;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -52,8 +52,8 @@ body {
 }
 
 .button:hover{
-    color: #3498db;
-    background-color: coral;   
+    color: blueviolet;
+    background-color: black;   
 }
 
 .container .buttons .zero {
@@ -61,8 +61,8 @@ body {
     width: 100%;
     font-size:18px;
     border-radius: 10px;
-    box-shadow: 2px 2px 5px #babecc,
-                -5px -5px 10px #ffffff73;
+    box-shadow: 2px 2px 5px whitesmoke,
+                -5px -5px 10px grey;
 }  
    
 .action-btn {
